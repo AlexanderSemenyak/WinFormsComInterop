@@ -1,3 +1,4 @@
+orig: kant2002/WinFormsComInterop
 ComWrappers required to run NativeAOT and WinForms
 =====================================================
 
