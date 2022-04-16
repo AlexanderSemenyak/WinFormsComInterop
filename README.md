@@ -1,4 +1,5 @@
-orig: kant2002/WinFormsComInterop
+orig: https://github.com/kant2002/WinFormsComInterop
+
 ComWrappers required to run NativeAOT and WinForms
 =====================================================
 
